@@ -86,7 +86,7 @@
 &kp Q               &kp W           &kp E         &kp R                   &kp T                                       &kp Y                         &kp U  &kp I     &kp O     &kp P
 &mt LEFT_CONTROL A  &kp S           &kp D         &kp F                   &kp G                     &kp LC(UP_ARROW)  &kp H                         &kp J  &kp K     &kp L     &mt RCTRL ENTER
 &mt LEFT_SHIFT Z    &kp X           &kp C         &kp V                   &kp B        &kp COLON    &kp LG(R)         &kp N                         &kp M  &mkp MB1  &mkp MB2  &mt RIGHT_SHIFT SLASH
-&kp LCTRL           &kp LEFT_SHIFT  &kp LEFT_ALT  &mt LEFT_COMMAND LANG2  &lt 1 SPACE  &lt 2 TAB    &lt 3 LANG1       &mt RIGHT_COMMAND LANGUAGE_1                             &kp ESCAPE
+&kp LCTRL           &kp LEFT_SHIFT  &kp LEFT_ALT  &mt LEFT_COMMAND LANG2  &lt 1 SPACE  &lt 2 TAB    &lt 3 BACKSPACE   &mt RIGHT_COMMAND LANGUAGE_1                             &kp ESCAPE
             >;
 
             sensor-bindings = <&scroll_up_down>;
